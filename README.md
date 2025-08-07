@@ -18,4 +18,5 @@
     14) ORDER BY
 
 -> I have used <Alias> for given column name.
+
 -> I have attached each operation performed with Output result on Table.
